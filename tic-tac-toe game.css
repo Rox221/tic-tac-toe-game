@@ -12,8 +12,7 @@ body {
 }
 .container{
  overflow: hidden;
- padding-right: 10px;
- margin-right: 10px;
+ margin: 0 auto;
 }
 .top{
   position: relative;
@@ -240,10 +239,6 @@ button{
 
 
 @media only screen and (min-width: 768px){
-.container{
-  overflow: visible;
-  max-width: 1500px;
-}
 .message-box{
   top: 19.5%;
 }
