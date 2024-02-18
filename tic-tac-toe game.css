@@ -12,6 +12,7 @@ body {
 }
 .container{
  overflow: hidden;
+ padding-right: 10px;	
 }
 .top{
   position: relative;
